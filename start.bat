@@ -1,3 +1,3 @@
 @echo off 
-python omicronhack.py
+python trigbot.py
 pause
