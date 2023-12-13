@@ -1,14 +1,57 @@
 # !Usage
 
-git clone https://github.com/omicr0nn/trigger-bot
+# Valorant TriggerBot
 
-cd trigger-bot
+This is a simple TriggerBot for Valorant created by omicr0n.
 
-pip install -r requirements.txt
+## Introduction
 
-python trigbot.py
+The TriggerBot automatically clicks the mouse when an enemy is detected within a specified pixel area with a designated color. It can be configured for different shooting modes and pixel scanning zones.
 
-"you can also use start.bat by running"
+## Usage
+
+- Toggle Trigger Bot: ALT
+- Switch Shooting Mode: é
+- Increase Pixel Scanning Zone: UP Arrow Key
+- Decrease Pixel Scanning Zone: DOWN Arrow Key
+
+## Controls
+
+- **Toggle Trigger Bot (ALT):** Activate or deactivate the TriggerBot.
+- **Switch Shooting Mode (é):** Switch between shooting modes.
+- **Adjust Pixel Scanning Zone (UP/DOWN Arrow Keys):** Increase or decrease the pixel scanning zone.
+
+## Configuration
+
+- **Shooting Modes:**
+  - Slow
+  - Medium
+  - Fast
+
+- **Pixel Scanning Zone:**
+  - Adjust the pixel scanning zone based on your preference.
+
+- **Enemy Color:**
+  - The enemy's outer color must be purple for accurate detection.
+
+## Information
+
+- **Response Time:**
+  - Displays the reaction time in milliseconds and milliseconds per pixel.
+ 
+## İnstallation
+
+pip install keyboard winsound 
+
+## Creator
+
+![Kali](https://i.hizliresim.com/3qtmdu8.png)
+- **GitHub:** [github.com/omicr0nn](https://github.com/omicr0nn)
+
+## Credits
+
+- Coding by omicr0nn
+
 
 # With ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
