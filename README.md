@@ -46,11 +46,6 @@ pip install keyboard winsound
 ## Creator
 
 ![Kali](https://i.hizliresim.com/3qtmdu8.png)
-- **GitHub:** [github.com/omicr0nn](https://github.com/omicr0nn)
-
-## Credits
-
-- Coding by omicr0nn
 
 
 # With ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
