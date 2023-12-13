@@ -40,10 +40,19 @@ The TriggerBot automatically clicks the mouse when an enemy is detected within a
   - Displays the reaction time in milliseconds and milliseconds per pixel.
  
 ## İnstallation
+```bash
+git clone https://github.com/omicr0nn/trigger-bot
+```
+```bash
+cd trigger-bot
+```
+```bash
+pip install requirements.txt
+```
+```bash
+python trigbot.py
+```
 
-pip install keyboard winsound 
-
-## Creator
 
 ![Kali](https://i.hizliresim.com/3qtmdu8.png)
 
